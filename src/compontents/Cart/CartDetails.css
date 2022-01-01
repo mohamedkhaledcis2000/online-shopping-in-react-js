@@ -1,0 +1,70 @@
+.ourcard {
+    margin-top: 50px;
+}
+
+.cardimg {
+    width: 65px;
+    height: 70px;
+    margin-right: 20px;
+}
+
+thead tr {
+    background-color: #ff523b !important;
+    color: #fff;
+}
+
+.tbodytr {
+    display: flex;
+}
+
+.tr1 {
+    display: inline-block;
+}
+
+.tr1 a {
+    color: #ff523b;
+    font-size: 12px;
+}
+
+.trnumber {
+    margin-top: 14px;
+    width: 50px;
+    height: 40px;
+    border: 1px solid #ff523b;
+    outline: none;
+    padding-left: 7px;
+}
+
+.trprice {
+    margin-top: 14px;
+}
+
+.message {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.purchase-btn {
+    width: 150px;
+    text-align: center;
+    background-color: #ff523b;
+    display: block;
+    border: none;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 2px;
+    margin: 40px auto;
+    text-decoration: none;
+}
+
+.purchase-btn:hover {
+    color: #fff;
+}
+
+
+/* //////////////////subtotal////////////////// */
+
+.subtotal {
+    border-top: 3px solid #ff523b;
+    /* width: 80%; */
+}

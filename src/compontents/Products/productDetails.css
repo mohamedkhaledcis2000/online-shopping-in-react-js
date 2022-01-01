@@ -1,0 +1,71 @@
+.ourgalary {
+    margin-top: 70px;
+}
+
+.galaryimage {
+    margin-top: 60px;
+}
+
+.num {
+    width: 50px;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #ff523b;
+    padding-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+.galarydetails h4 {
+    margin: 20px 0px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.galarydetails select {
+    display: block;
+    padding: 10px;
+    margin: 20px 0px;
+}
+
+.galarydetails .fa-indent {
+    color: #ff523b;
+    margin-left: 10px;
+}
+
+@media only screen and (min-width:991px) {
+    .galarydetails {
+        margin-top: 150px;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width: 991px) {
+    .galarydetails {
+        margin-top: 53px;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .galarydetails {
+        margin-top: 53px;
+    }
+}
+
+
+/* ///////////////////latest product///////////////// */
+
+.latestproduct {
+    height: 300px;
+}
+
+.latesttext {
+    text-align: center;
+    margin-bottom: 33px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.latesttext h3 {
+    color: #555;
+}

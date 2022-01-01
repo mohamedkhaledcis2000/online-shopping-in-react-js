@@ -1,0 +1,12 @@
+
+
+ .firstsection{
+     height:150 px;
+     background: radial-gradient(#fff,#ffd6d6) !important;
+ }
+ @media only screen and (max-width:991px){
+     .firstsection{
+         height: auto;
+     }
+ }
+ 

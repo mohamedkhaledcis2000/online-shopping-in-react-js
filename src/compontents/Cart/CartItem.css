@@ -1,0 +1,25 @@
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.amount {
+    padding: 5px;
+    margin-left: 10px;
+    display: inline-block;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+button:first-child {
+    margin-right: 10px;
+}
+
+.btn-add {
+    margin-left: 10px;
+}
+
+.amount {
+    border-color: #ff523b;
+}
